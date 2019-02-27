@@ -1,2 +1,2 @@
-# k_means
-k-means algorithms
+# k_means && DBSCAN
+basic algorithms without using scikit-learn
